@@ -30,7 +30,7 @@
                         <div class="big-blog-item">
 						<img src="{{ asset('storage/'.$nw->picture)}}" alt="#" class="blog-thumbnail">
 						<div class="blog-content text-box text-white">
-							<div class="top-meta">11.11.18  /  in <a href="">Games</a></div>
+							<div class="top-meta">01.06.19  /  in <a href="">Models</a></div>
 							<h3>{{ $nw->heading }}</h3>
 							<p>{{ $nw->post }}</p>
 							<a href="{{ route('news.show', $nw->id) }}" class="read-more">Read More <img src="img/icons/double-arrow.png" alt="#"/></a>
@@ -43,9 +43,9 @@
 
 					
 					<div class="site-pagination">
-						<a href="#" class="active">Page One</a>
-						<a href="#">Page Two</a>
-						<a href="#">Page Three</a>
+						<a href="#" class="active"> One</a>
+						<a href="#"> Two</a>
+						<a href="#"> Three</a>
 					</div>
 				</div>
 				<div class="col-xl-3 col-lg-4 col-md-5 sidebar">
@@ -64,8 +64,8 @@
 										<img src="./img/blog-widget/1.jpg" alt="#">
 									</div>
 									<div class="tw-text">
-										<div class="tw-meta">11.11.18  /  in <a href="">Games</a></div>
-										<h5>The best online game is out now!</h5>
+										<div class="tw-meta">14.07.19  /  in <a href="">Models</a></div>
+										<h5>erhehthth</h5>
 									</div>
 								</div>
 								<div class="tw-item">
@@ -73,8 +73,8 @@
 										<img src="./img/blog-widget/2.jpg" alt="#">
 									</div>
 									<div class="tw-text">
-										<div class="tw-meta">11.11.18  /  in <a href="">Games</a></div>
-										<h5>The best online game is out now!</h5>
+										<div class="tw-meta">11.07.19   /  in <a href="">Tech</a></div>
+										<h5>jryjytjtkyt</h5>
 									</div>
 								</div>
 								<div class="tw-item">
@@ -82,8 +82,8 @@
 										<img src="./img/blog-widget/3.jpg" alt="#">
 									</div>
 									<div class="tw-text">
-										<div class="tw-meta">11.11.18  /  in <a href="">Games</a></div>
-										<h5>The best online game is out now!</h5>
+										<div class="tw-meta">06.07.19 /  in <a href="">Tech</a></div>
+										<h5>efqgeqgeg</h5>
 									</div>
 								</div>
 								<div class="tw-item">
@@ -91,8 +91,8 @@
 										<img src="./img/blog-widget/4.jpg" alt="#">
 									</div>
 									<div class="tw-text">
-										<div class="tw-meta">11.11.18  /  in <a href="">Games</a></div>
-										<h5>The best online game is out now!</h5>
+										<div class="tw-meta">02.07.19  /  in <a href="">Music</a></div>
+										<h5>dfdfdfdf</h5>
 									</div>
 								</div>
 							</div>

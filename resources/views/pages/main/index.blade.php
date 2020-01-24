@@ -10,14 +10,14 @@
 				<div class="container">
 					<h2>News By Vadim</h2>
 					<p>Fusce erat dui, venenatis et erat in, vulputate dignissim lacus. Donec vitae tempus dolor,<br>sit amet elementum lorem. Ut cursus tempor turpis.</p>
-					<a href="#" class="site-btn">Read More  <img src="img/icons/double-arrow.png" alt="#"/></a>
+					
 				</div>
 			</div>
 			<div class="hero-item set-bg d-flex align-items-center justify-content-center text-center" data-setbg="img/slider-bg-2.jpg">
 				<div class="container">
 					<h2>AutoBlog</h2>
 					<p>Everything you need to know about pricing,<br> specs, features, fuel economy and safety.</p>
-					<a href="#" class="site-btn">Read More  <img src="img/icons/double-arrow.png" alt="#"/></a>
+					
 				</div>
 			</div>
 		</div>

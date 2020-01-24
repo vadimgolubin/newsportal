@@ -50,7 +50,8 @@
 					<!-- Menu -->
 					<ul class="main-menu primary-menu">
 						<li><a href="{{ route('news.index') }}">News</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="{{ route('news.index') }}">Latest Posts</a></li>
+						<li><a href="contact.html">About Us</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -64,12 +65,7 @@
 	<!-- Footer section -->
 	<footer class="footer-section">
 		<div class="container">
-			<div class="footer-left-pic">
-				<img src="img/footer-left-pic.png" alt="">
-			</div>
-			<div class="footer-right-pic">
-				<img src="img/footer-right-pic.png" alt="">
-			</div>
+			
 			<a href="#" class="footer-logo">
 				<img src="./img/logo2.png" alt=""> 
 				
@@ -77,7 +73,7 @@
 			<ul class="main-menu footer-menu">
 				<li><a href="">Home</a></li>
 				<li><a href="">News</a></li>
-				<li><a href="">Contact</a></li>
+				<li><a href="">About Us</a></li>
 			</ul>
 			<div class="footer-social d-flex justify-content-center">
 				<a href="#"><i class="fa fa-pinterest"></i></a>

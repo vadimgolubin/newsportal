@@ -110,32 +110,8 @@
 								</ul>
 							</div>
 						</div>
-						<div class="widget-item">
-							<h4 class="widget-title">Latest Comments</h4>
-							<div class="latest-comments">
-								<div class="lc-item">
-									<img src="./img/blog-widget/1.jpg" class="lc-avatar" alt="#">
-									<div class="tw-text"><a href="">Maria Smith</a> <span>On</span> The best online game out there </div>
-								</div>
-								<div class="lc-item">
-									<img src="./img/blog-widget/2.jpg" class="lc-avatar" alt="#">
-									<div class="tw-text"><a href="">Maria Smith</a> <span>On</span> The best online game out there </div>
-								</div>
-								<div class="lc-item">
-									<img src="./img/blog-widget/3.jpg" class="lc-avatar" alt="#">
-									<div class="tw-text"><a href="">Maria Smith</a> <span>On</span> The best online game out there </div>
-								</div>
-								<div class="lc-item">
-									<img src="./img/blog-widget/4.jpg" class="lc-avatar" alt="#">
-									<div class="tw-text"><a href="">Maria Smith</a> <span>On</span> The best online game out there </div>
-								</div>
-							</div>
-						</div>
-						<div class="widget-item">
-							<a href="#" class="add">
-								<img src="./img/add.jpg" alt="">
-							</a>
-						</div>
+						
+						
 					</div>
 				</div>
 			</div>
